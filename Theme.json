@@ -1,0 +1,82 @@
+{
+    "name": "Celestial Chaos",
+    "description": "A cosmic fusion of deep space and neon chaos.",
+    "authors": [
+        {
+            "name": "btmc727",
+            "id": "554071670143451176"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#1E1E2E"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#1A1826"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#302D41"
+        ],
+        "TEXT_NORMAL": [
+            "#D9E0EE"
+        ],
+        "TEXT_MUTED": [
+            "#6E6C7E"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#96CDFB"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#F5E0DC"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#F28FAD"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#575268"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#575268"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#1E1E2E"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1E1E2E"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#302D41"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#575268"
+        ]
+    },
+    "rawColors": {
+        "BASE": "#1E1E2E",
+        "MANTLE": "#1A1826",
+        "CRUST": "#302D41",
+        "TEXT": "#D9E0EE",
+        "SUBTEXT1": "#BAC2DE",
+        "SUBTEXT0": "#A6ADC8",
+        "OVERLAY2": "#C3BAC6",
+        "OVERLAY1": "#988BA2",
+        "OVERLAY0": "#6E6C7E",
+        "SURFACE2": "#6E6C7E",
+        "SURFACE1": "#575268",
+        "SURFACE0": "#302D41",
+        "LAVENDER": "#C9CBFF",
+        "BLUE": "#96CDFB",
+        "SAPPHIRE": "#8AADF4",
+        "SKY": "#89DCEB",
+        "TEAL": "#94E2D5",
+        "GREEN": "#ABE9B3",
+        "YELLOW": "#FAE3B0",
+        "PEACH": "#F8BD96",
+        "MAROON": "#E8A2AF",
+        "RED": "#F28FAD",
+        "PINK": "#F5C2E7",
+        "MAUVE": "#DDB6F2",
+        "PURPLE": "#F5E0DC"
+    },
+    "spec": 2
+}
