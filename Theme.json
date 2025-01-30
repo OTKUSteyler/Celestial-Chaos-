@@ -1,6 +1,6 @@
 {
     "name": "Celestial Chaos",
-    "description": "A cosmic fusion of deep space and neon chaos.",
+    "description": "A cosmic dance of deep space and neon stardust.",
     "authors": [
         {
             "name": "btmc727",
@@ -9,10 +9,10 @@
     ],
     "semanticColors": {
         "BACKGROUND_PRIMARY": [
-            "#1E1E2E"
+            "#1A1826"
         ],
         "BACKGROUND_SECONDARY": [
-            "#1A1826"
+            "#1E1E2E"
         ],
         "BACKGROUND_ACCENT": [
             "#302D41"
@@ -21,13 +21,13 @@
             "#D9E0EE"
         ],
         "TEXT_MUTED": [
-            "#6E6C7E"
+            "#988BA2"
         ],
         "INTERACTIVE_NORMAL": [
             "#96CDFB"
         ],
         "INTERACTIVE_HOVER": [
-            "#F5E0DC"
+            "#89DCEB"
         ],
         "INTERACTIVE_ACTIVE": [
             "#F28FAD"
@@ -49,11 +49,17 @@
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#575268"
+        ],
+        "HIGHLIGHT_GLOW": [
+            "#F8BD96"
+        ],
+        "SELECTION_BACKGROUND": [
+            "#6E6C7E"
         ]
     },
     "rawColors": {
-        "BASE": "#1E1E2E",
-        "MANTLE": "#1A1826",
+        "BASE": "#1A1826",
+        "MANTLE": "#1E1E2E",
         "CRUST": "#302D41",
         "TEXT": "#D9E0EE",
         "SUBTEXT1": "#BAC2DE",
@@ -76,7 +82,9 @@
         "RED": "#F28FAD",
         "PINK": "#F5C2E7",
         "MAUVE": "#DDB6F2",
-        "PURPLE": "#F5E0DC"
+        "PURPLE": "#F5E0DC",
+        "STARLIGHT": "#FFFFFF",
+        "GALAXY_GLOW": "#FFB4A2"
     },
     "spec": 2
 }
